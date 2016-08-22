@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+ 
+}
+
+p{
+  text-align: center;
+}
+
+
+#main{
+ 
+background-image: url("http://2.bp.blogspot.com/-zr3a_n1saUs/UTtwRu-raVI/AAAAAAAAAZ8/hmzJMsoQ0PY/s1600/eepromprogrammer.png");
+  
+background-size:  cover;   
+   
+background-repeat: no-repeat;
+    
+background-position: center center;
+}
+
+
+#Education{
+  background-color: black;
+}
+
+
+.font-color{
+  font-family: Roboto;
+  color: blue;
+}
+
+
+.back-black{
+   background-color: black;
+}
+
+
+.orange-color{
+  font-family:Roboto
+   color: orange;
+}
